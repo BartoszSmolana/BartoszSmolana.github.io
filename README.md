@@ -84,3 +84,4 @@ Tak to to, tak to to, tak to to, tak to to!…</br>
   <tr><td>Wagon 10</td><td>kufry paki i skrzynie</td></tr>
 </table>
 
+<img src="2-17.jpg" alt="Schwerer Gustav">
