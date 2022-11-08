@@ -17,7 +17,7 @@ Uch - jak gorąco!<br>
 Puff - jak gorąco!<br>
 Uff - jak gorąco!<br>
 Już ledwo sapie, już ledwo zipie,<br>
-  A jeszcze palacz węgiel w nią sypie.<br></p>
+  A jeszcze palacz węgiel w nią sypie.</p>
 
 <h3><a href="https://pl.wikipedia.org/wiki/Lokomotywa" target="_blank">Lokomotywa</a></h3>
 <p>  Wagony do niej podoczepiali<br>
@@ -39,13 +39,13 @@ Sam nie wiem, co się w nich jeszcze mieści.<br>
 Lecz choćby przyszło tysiąc atletów<br>
 I każdy zjadłby tysiąc kotletów,<br>
 I każdy nie wiem jak się wytężał,<br>
-To nie udźwigną, taki to ciężar.<br></p>
+To nie udźwigną, taki to ciężar.</p>
 
 <h3>Dźwięki</h3>
-Nagle - gwizd!<br>
+<p>Nagle - gwizd!<br>
 Nagle - świst!<br>
 Para - buch!<br>
-Koła - w ruch!<br>
+  Koła - w ruch!<br></p>
 
 <h3>Ruch</h3>
 <p>  Najpierw - powoli - jak żółw – ociężale,<br>
@@ -63,7 +63,7 @@ Tak to to, tak to to , tak to to, tak to to.<br>
 Gładko tak, lekko tak toczy się w dal,<br>
 Jak gdyby to była piłeczka, nie stal,<br>
 Nie ciężka maszyna, zziajana, zdyszana,<br>
-  Lecz fraszka, igraszka, zabawka blaszana.<br></p>
+  Lecz fraszka, igraszka, zabawka blaszana.</p>
 
 <h3><a href="https://pl.wikipedia.org/wiki/Silnik_parowy" target="_blank">Dokąd zmierzamy i jak to działa?</a></h3>
 <p>  A skądże to, jakże to, czemu tak gna?<br>
@@ -75,8 +75,8 @@ A tłoki kołami ruszają z dwóch boków<br>
 I gnają, i pchają, i pociąg się toczy,<br>
 Bo para te tłoki wciąż tłoczy i tłoczy,<br>
 I koła turkocą, i puka, i stuka to:<br>
-  Tak to to, tak to to, tak to to, tak to to!…<br></p>
-</br>
+  Tak to to, tak to to, tak to to, tak to to!…</p>
+
 <table>
   <tr><td>Numer wagonu</td><td>Zawartość</td></tr>
   <tr><td>Wagon 1</td><td>krowy</td></tr>
