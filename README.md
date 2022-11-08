@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="zadanie.css">
+</head>
+<body>
+
 
 <h3>Stacja</h3>
   Stoi na stacji lokomotywa,</br>
@@ -85,3 +92,6 @@ Tak to to, tak to to, tak to to, tak to to!…</br>
 </table>
 
 <img src="2-17.jpg" alt="Schwerer Gustav">
+
+</body>
+</html>
