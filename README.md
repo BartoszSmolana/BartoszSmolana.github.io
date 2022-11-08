@@ -10,9 +10,9 @@
   Stoi na stacji lokomotywa,</br>
 Ciężka, ogromna i pot z niej spływa:</br>
 Tłusta oliwa.</br>
-Stoi i sapie, dyszy i dmucha,</br>
-Żar z rozgrzanego jej brzucha bucha:</br>
-Buch - jak gorąco!</br>
+Stoi i sapie, dyszy i dmucha,<br>
+Żar z rozgrzanego jej brzucha bucha:<br>
+Buch - jak gorąco!<br>
 Uch - jak gorąco!</br>
 Puff - jak gorąco!</br>
 Uff - jak gorąco!</br>
