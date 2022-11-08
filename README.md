@@ -6,16 +6,16 @@
 
 
 <h3>Stacja</h3>
-<p>  Stoi na stacji lokomotywa,
-Ciężka, ogromna i pot z niej spływa:
-Tłusta oliwa.
-Stoi i sapie, dyszy i dmucha,
-Żar z rozgrzanego jej brzucha bucha:
-Buch - jak gorąco!
-Uch - jak gorąco!
-Puff - jak gorąco!
-Uff - jak gorąco!
-Już ledwo sapie, już ledwo zipie,
+<p>  Stoi na stacji lokomotywa,<br>
+Ciężka, ogromna i pot z niej spływa:<br>
+Tłusta oliwa.<br>
+Stoi i sapie, dyszy i dmucha,<br>
+Żar z rozgrzanego jej brzucha bucha:<br>
+Buch - jak gorąco!<br>
+Uch - jak gorąco!<br>
+Puff - jak gorąco!<br>
+Uff - jak gorąco!<br>
+Już ledwo sapie, już ledwo zipie,<br>
   A jeszcze palacz węgiel w nią sypie.</p>
 
 <h3><a href="https://pl.wikipedia.org/wiki/Lokomotywa" target="_blank">Lokomotywa</a></h3>
